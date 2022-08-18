@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="heading_string">App Menu</string>
+    <string name="entrybuttontext">Add Entry</string>
+    <string name="datepickbutton">Date Pick</string>
+</resources>
